@@ -1,0 +1,8 @@
+[[Lukas Frazer|Lukas]] commence son travail d'investigation en recherchant des informations sur son patron et sur le pannel d'investisseur qui financent ses recherches.
+[[Markus Mac Kinnon|Markus]] commence ses recherche du côté de son aggresseur il découvre rapidement que ce dernier s'appel [[Liam Miller]]
+Au milieu de mes recherches [[Jeremy George|Jeremy]] me demande si je peux le remplacer dans un soirée mondaine pour la [[Laboratoire de recherche ...|société]] qui a lieu le vendredi suivant avec les investisseurs de l'entreprise.
+Dans la soirée nous apprenons que [[Jeffrey Cooper|Jeffrey]] a disparu. Mais assez vite nous le retrouvons au [[Bar de Bob]], dans le bar [[Jeffrey Cooper|Jeffrey]] repère, d'une façon qui nous est inconnus, des vampire qui semblerait traîner dans le [[Bar de Bob|bar]], nous les confrontons [[Markus Mac Kinnon|Markus]] manque de perdre la vie mais le feu Grejois de [[Henry Vasquez|Henry]] met rapidement fin à l'affrontement.
+Le lendemain [[Lukas Frazer|Lukas]] rencontre l'[[Arcanum]] qui nous transmet des informations. D'après eux les dernières personnes ayant mis la main sur le livre serait un groupe de fée de la cours de l'hiver de Los Angeles.
+La soirée mondaine arrive rapidement, [[Anna Ramirez]] est l'hôte de la soirée, [[Henry Billwrite]] est également présent à la soirée ce qui glace le sang de [[Lukas Frazer|Lukas]].
+Durant la soirée nous rencontrons [[Edouard Swallow]] le professeur de [[Henry Vasquez|Henry]] en étude comportementale.
+[[Anna Ramirez]] arrive assez tard à la soirée et fait une entré assez remarquée, elle boit dans une flasque portant un symbôle inconnue
