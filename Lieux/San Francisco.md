@@ -2,7 +2,7 @@
 mapCalc1: NaN
 ---
 # Lieux de San Francisco
-* [[Laboratoire de recherche ...]]
+* [[Laboratoire de recherche Trustex]]
 * [[Maison de Lukas]]
 * [[Ferme de Jeffrey]]
 * [[Penthouse de Markus (détruit)]]
