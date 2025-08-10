@@ -1,7 +1,13 @@
-# Séance du 08/08/2025
+# Séance du 09/08/2025
 La commotion à l'extérieur du logement de Mâche en Fer nous force à sortir voir ce qui se passe. Une aura, étrange entour un Loup Garou métisse et le Cairn, qui annonce être une personnification d'un esprit du nom de Grand père Tonnerre. Il annonce que le Ver va faire une nouvelle incursion, et tiens une pierre qu'il laisse tomber avant de partir avec le Cairn. 
 Lukas tire avec son 9mm sur Black Spot qui est devenu l'hôte de Grand Père Tonnerre mais cela n'a que peu d'effet puisqu'il est dans un corps de Loup Garou, il s'envole au loin et Lukas arrête assez rapidement de le poursuivre, voyant que l'affrontement qui avait commencé entre les métisses et les Loup Garou qui font front commun avec Mâche en Fer se calme rapidement et les suivant Mâche en Fer qui a été frappé par la foudre se font rapidement maîtrisé, Lukas fait marche arrière mais il est arrêté par des humains et un loup qui le mettent à l'abris, il leur demande s'ils ont vu la pierre que tenait Black Spot.
 Lukas récupère la pierre avec l'aide des humains.
 Pendant ce temps Amozé rattrape Black Spot suivis de Jeffrey, qui commence à créer des symbôle ressemblant à de l'hébreu sur la pierre du Cairn, il annonce à Amozé qu'il se nourri, ce qui l'enrage, le combat s'engage, mais est de courte durée et Black Spot se fait décapiter.
-Dans l'abris, je commence à chercher à déchiffrer la pierre que Black Spot tenait, Felix est dans l'abris avec nous et commence à traduire la tablette, la pierre parle du Seigneur des Ondes qui doit être libéré.
-Les loup garou qui ont suivi la créature arrive et nous demande ce qu'on a pu déchiffrer. Les suivant de Mâche en Fer son mis sous surveillance ou attaché. 
+Dans l'abris, je commence à chercher à déchiffrer la pierre que Black Spot tenait, Felix est dans l'abris avec nous et commence à traduire la tablette, la pierre parle du Seigneur des Profondeur de l'esprit qui doit être libéré.
+Les loup garou qui ont suivi la créature arrive et nous demande ce qu'on a pu déchiffrer. Les suivant de Mâche en Fer son mis sous surveillance ou attaché.
+La pierre est amenée dans un Mobil'home à part qui est tenu sous bonne garde, nous réfléchissons à une solution pour récupérer la pierre.
+Amozé contact son maître pour l'informer de la situation, il lui dit qu'il arrive rapidement pour purifier les gens.
+D'après Amozé le Loup Garou a été possédé par un Fomori et non pas un démon.
+Avant que nous quittions le lieux du Cairn, Jeffrey a vu des fissures avec une lumière zébrer le sol du lieux avec un pilonne rouge vers la direction du Cairn qui a été déplacé.
+Fellix trouve un nom dans le texte de la Tablette : Phenex.
+Le mentor d'Amozé s'appel Djehouty, et il est accompagné de sa meute, un japonais Satoshi (Aken), une mongole Yesui (Astrolatre), un indien Rajij (Basthet), un singapourien Hang (Marcheur sur verre).

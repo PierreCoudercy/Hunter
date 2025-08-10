@@ -1,10 +1,6 @@
 ---
 mapCalc1: NaN
 ---
-# Lieux de Los Angeles
-* 
-# Carte Los Angeles
-
 
 ---
 map_height_y: 2048  

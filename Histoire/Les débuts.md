@@ -19,6 +19,8 @@ A la [[Ferme de Jeffrey|ferme]] de [[Jeffrey Cooper|Jeffrey]] je rencontre 3 per
 
 [[Adam Grimes (Azraël)|Grimes]] se présente comme un [[Démon|Ange déchu]] et il nous demande en échange de service personnalisé de récupérer un livre le [[Compendium Aeternum]].
 
-Il nous explique que le [[Compendium Aeternum|livre]] aurait été récupéré par une communauté de [[Vampire]] gravitant autour de [[San Francisco]] et de [[Los Angeles]].
+Il nous explique que le [[Artefactes/Perdu/Compendium Aeternum|livre]]aurait été récupéré par une communauté de [[Vampire]] gravitant autour de [[San Francisco]] et de [[Los Angeles]].
 
 Le livre d'après lui, permettrait aux vampire de cacher le soleil, [[Adam Grimes (Azraël)|Grimes]] nous indique qu'il serait bon de commencer nos recherches autour de mon [[Laboratoire de recherche ...|laboratoire]] ou de rechercher l'agresseur de [[Markus Mac Kinnon|Markus]].
+
+La suite dans [[La recherche du livre]]

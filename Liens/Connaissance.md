@@ -1,4 +1,4 @@
 [[Lukas Frazer]]
 
-* [[Fellix]]
+* [[Felix]]
 * [[Gwen (Aruru)]]

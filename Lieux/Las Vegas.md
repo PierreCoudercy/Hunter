@@ -1,10 +1,9 @@
 ---
 mapCalc1: NaN
 ---
-# Lieux de Los Angeles
+# Lieux de Las Vegas
 * 
-# Carte Los Angeles
-
+# Carte Las Vegas
 
 ---
 map_height_y: 2048  
