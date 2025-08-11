@@ -1,0 +1,4 @@
+# Match de baseball
+Afin de fêter notre réussite [[Jeffrey Cooper|Jeffrey]] et [[Lukas Frazer|Lukas]] ont décidé d'aller assister à un match de Baseball à Seattle avec la famille de [[Lukas Frazer|Lukas]], l'occasion de passer un peu de temps avec eux.
+Alors que [[Lukas Frazer|Lukas]] et [[Ariel Irwin (Fée)|Ariel]] sont sur le point de partir pour Seattle, il arrive dans la cuisine dans laquelle elle lit de très vieux document mentionnant une [[Fées|fée]] nommée [[Le maître des clés]].
+Le match est l'occasion pour un dîner familiale de la famille Frazer. La nouvelle de la relation renouée entre [[Lukas Frazer|Lukas]] et [[Ariel Irwin (Fée)|Ariel]] fait un choc à [[Tessa Frazer|Tessa]] qui en veut un peu à [[Lukas Frazer|Lukas]]

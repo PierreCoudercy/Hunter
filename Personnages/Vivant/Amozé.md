@@ -1,1 +1,1 @@
-[[Loup Garou]]
+[[Loup-Garou]]
