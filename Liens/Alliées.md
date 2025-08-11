@@ -1,8 +1,4 @@
 [[Lukas Frazer]]
-* [[Jeffrey Cooper]] 
-* [[Markus Mac Kinnon]]
-* [[Amozé]]
-* [[Ariel Irwin (Fée)]]
 * [[Adam Grimes (Azraël)]]
 * [[Henry Vasquez]]
 * [[Bob]]
