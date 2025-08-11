@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lukas
+---
 [[Mage]]
 
 # Famille

@@ -1,1 +1,5 @@
+---
+aliases:
+  - Ariel
+---
 [[Fées]]

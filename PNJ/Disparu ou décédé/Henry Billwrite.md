@@ -1,1 +1,6 @@
+---
+aliases:
+  - Billwrite
+  - patron
+---
 [[Vampire]]

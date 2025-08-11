@@ -1,3 +1,8 @@
+---
+aliases:
+  - Markus
+  - William
+---
 Pseudo après la perte de Pepper William Wallas
 
 # Amis

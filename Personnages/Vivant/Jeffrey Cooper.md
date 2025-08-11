@@ -1,3 +1,7 @@
+---
+aliases:
+  - Jeffrey
+---
 # Famille
 * [[Billy Cooper]]
 # Amis

@@ -1,1 +1,6 @@
+---
+aliases:
+  - Gwen
+  - Aruru
+---
 [[Démon]]
