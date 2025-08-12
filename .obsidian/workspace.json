@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1c50b85a367216e6",
+        "id": "2f81c53328729993",
         "type": "tabs",
         "children": [
           {
-            "id": "104a5a391dd4da6c",
+            "id": "a75b5ea68c4c2970",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4ac7df2ba29e75f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronologie.md",
+                "file": "Histoire/Loucifer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chronologie"
+              "title": "Loucifer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,16 +191,27 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "104a5a391dd4da6c",
+  "active": "4ac7df2ba29e75f6",
   "lastOpenFiles": [
+    "Créatures/Loup-Garou.md",
+    "Histoire/Loucifer.md",
+    "PNJ/Vivant/Hang.md",
+    "PNJ/Vivant/Rajij.md",
+    "PNJ/Vivant/Yesui.md",
+    "PNJ/Vivant/Satoshi.md",
+    "PNJ/Vivant/Djehouty.md",
+    "Artefactes/Perdu/Bloc de pierre mystérieux.md",
+    "PNJ/Vivant/Mâche en fer.md",
+    "Histoire/Baseball, Israel et Convention.md",
+    "Notes rapide Lukas.md",
+    "PNJ/Disparu ou décédé/Black Spot.md",
+    "Histoire/Disparition, Loup Garou et Assaut.md",
+    "Chronologie.md",
     "Histoire/Promotion, Trahison et Road Trip.md",
     "Histoire/Voyage à Las Vegas.md",
     "Histoire/Un week end de chasse.md",
     "Histoire/La recherche du livre.md",
-    "Histoire/Loucifer.md",
     "Histoire/Les débuts.md",
-    "Chronologie.md",
-    "Histoire/Baseball, Israel et Convention.md",
     "Lieux/Jerusalem.md",
     "Lieux/Los Angeles.md",
     "Artefactes/Perdu/Technophone.md",
@@ -197,17 +219,6 @@
     "Artefactes/Perdu/Lance de Longinus.md",
     "Artefactes/Possédé/Morning Star.md",
     "Artefactes/Possédé/Far-squicker.md",
-    "Liens/Alliées.md",
-    "Liens/Connaissance.md",
-    "Liens/Ennemies.md",
-    "Lieux/Umbra.md",
-    "Lieux/Seattle.md",
-    "Lieux/San Francisco.md",
-    "Lieux/Nevada.md",
-    "Lieux/Las Vegas.md",
-    "Lieux/La maison des portes.md",
-    "Lieux/Californie.md",
-    "Organisations/Technocratie.md",
     "Lieux/Lieux de Seattle",
     "Lieux/Lieux de Jérusalem",
     "Images/Tremere_Logo.png",

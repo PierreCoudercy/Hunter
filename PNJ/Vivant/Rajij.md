@@ -1,0 +1,1 @@
+Un allié de [[Djehouty]] de la race des [[Basthet]]

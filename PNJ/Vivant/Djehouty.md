@@ -1,0 +1,1 @@
+Maître d'[[Amozé]] un [[Loup-Garou]] comme lui.

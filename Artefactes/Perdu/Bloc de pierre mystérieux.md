@@ -1,0 +1,1 @@
+Bloc de Pierre apparu entre les mains de [[Black Spot]] durant l'épisode que l'on a appelé [[Loucifer]]. Ce bloc comporte du texte écrit en hébreux que [[Felix]] a pu partiellement déchiffré. Il a été récupéré par les [[Loup-Garou|Métisses]] qui on fait cecession avec [[Mâche en fer]].
