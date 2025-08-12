@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Histoire",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Créatures",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    },
+    {
+      "query": "path:Artefactes",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Lieux",
+      "color": {
+        "a": 1,
+        "rgb": 3117615
+      }
+    },
+    {
+      "query": "path:Organisations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14722386
+      }
+    },
+    {
+      "query": "path:Personnage",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:PNJ  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 2.090625,
+  "lineSizeMultiplier": 0.738020833333333,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.5,
+  "linkDistance": 500,
+  "scale": 0.059326171875,
+  "close": true
+}
