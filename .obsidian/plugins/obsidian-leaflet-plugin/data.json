@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1755037948237,
+      "markers": [
+        {
+          "id": "ID_b99b2ba81a69",
+          "type": "People",
+          "loc": [
+            512.5234375,
+            771.25
+          ],
+          "link": "Lazarus",
+          "layer": "%5B%5BJerusalem.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Lieux/Jérusalem.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -78,6 +107,38 @@
     {
       "type": "fealand",
       "iconName": "landmark",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "bomb",
+      "iconName": "bomb",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "People",
+      "iconName": "male",
       "color": "#dddddd",
       "alpha": 1,
       "layer": false,
