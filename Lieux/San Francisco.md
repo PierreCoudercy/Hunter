@@ -28,5 +28,11 @@ zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.
 unit: km ### The value displayed when measuring so you know what type of unit is being measure.  
 scale: 0.002631578947368421 ### Real units/px (resolution) of your map  
 recenter: false  
-darkmode: false ### marker
+darkmode: false ### markermarker: laboratoire,469.40625,550.75,Laboratoire de recherche Trustex,,,
+marker: Bar,254.90625,943.75,Bar de Bob,,,
+marker: Maison,50.64652320248647,1127.8353159925434,Ferme de Jeffrey,,,
+marker: Appartement,1137.8125,610.5,Penthouse de Markus (détruit),,,
+marker: Appartement,1299.90625,1332.75,Ambassade du Costa Rica,,,
+marker: Maison,700,1218,Maison de Lukas,,,
+
 ```

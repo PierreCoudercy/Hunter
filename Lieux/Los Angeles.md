@@ -24,4 +24,7 @@ unit: km ### The value displayed when measuring so you know what type of unit is
 scale: 0.03 ### Real units/px (resolution) of your map  
 recenter: false  
 darkmode: false ### marker
+marker: Maison,293,769.5,Villa Vampire,,,
+marker: Appartement,1182.53125,1207.75,Centre de congrès,,,
+
 ```
