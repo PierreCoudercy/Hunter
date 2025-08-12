@@ -31,8 +31,7 @@
               "title": "Loucifer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +190,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4ac7df2ba29e75f6",
+  "active": "a75b5ea68c4c2970",
   "lastOpenFiles": [
-    "Créatures/Loup-Garou.md",
     "Histoire/Loucifer.md",
+    "PNJ/Inconnu/Phenex.md",
+    "PNJ/Inconnu/Seigneur des profondeur.md",
+    "PNJ/Inconnu/Grand Père Tonnerre.md",
+    "PNJ/Inconnu",
+    "Créatures/Loup-Garou.md",
     "PNJ/Vivant/Hang.md",
     "PNJ/Vivant/Rajij.md",
     "PNJ/Vivant/Yesui.md",
@@ -216,9 +219,6 @@
     "Lieux/Los Angeles.md",
     "Artefactes/Perdu/Technophone.md",
     "Artefactes/Perdu/Compendium Aeternum.md",
-    "Artefactes/Perdu/Lance de Longinus.md",
-    "Artefactes/Possédé/Morning Star.md",
-    "Artefactes/Possédé/Far-squicker.md",
     "Lieux/Lieux de Seattle",
     "Lieux/Lieux de Jérusalem",
     "Images/Tremere_Logo.png",
@@ -232,7 +232,6 @@
     "Lieux/Lieux de Los Angeles",
     "Artefactes/Perdu",
     "Artefactes/Possédé",
-    "Artefactes",
-    "Organisations"
+    "Artefactes"
   ]
 }
