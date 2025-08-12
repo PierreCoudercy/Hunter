@@ -4,7 +4,8 @@ map_height_y: 2200
 map_width_x: 1700
 ---
 # Lieux de Los Angeles
-* 
+* [[Centre de congrès]]
+* [[Villa Vampire]]
 # Carte Los Angeles
 
 ```leaflet  
