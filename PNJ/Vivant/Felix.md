@@ -1,1 +1,1 @@
-[[Basthet]]
+Un [[Basthet]] travaillant à l'[[Arcanum]]

@@ -1,0 +1,1 @@
+Professeur de [[Henry Vasquez|Henry]], rencontré lors d'une [[La recherche du livre|soirée mondaine]]

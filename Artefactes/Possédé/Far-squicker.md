@@ -1,0 +1,1 @@
+"Téléphone" produit par les [[Rat Garou]], contenant une esprit Rat.
