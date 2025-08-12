@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f81c53328729993",
+        "id": "c2f0a20b06049fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "a75b5ea68c4c2970",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "4ac7df2ba29e75f6",
+            "id": "da6c4c4646d1a4f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire/Loucifer.md",
+                "file": "Histoire/Baseball, Israel et Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loucifer"
+              "title": "Baseball, Israel et Convention"
             }
           }
         ]
@@ -190,16 +180,27 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a75b5ea68c4c2970",
+  "active": "da6c4c4646d1a4f6",
   "lastOpenFiles": [
-    "Lieux/San Francisco.md",
-    "Lieux/Seattle.md",
     "Lieux/Nevada.md",
+    "Images/LogoHouseDevil.jpg",
+    "Images/LogoHouseDevil.webp",
+    "Images/Nevada-Map.jpg",
     "Lieux/Los Angeles.md",
     "Lieux/Las Vegas.md",
-    "Lieux/La maison des portes.md",
-    "Lieux/Jerusalem.md",
     "Lieux/Californie.md",
+    "Créatures/Ratkin.md",
+    "Créatures/Bastet.md",
+    "PNJ/Vivant/Felix.md",
+    "PNJ/Vivant/Rajij.md",
+    "Lieux/Jerusalem.md",
+    "Chronologie.md",
+    "Lieux/San Francisco.md",
+    "Histoire/La recherche du livre.md",
+    "Histoire/Les débuts.md",
+    "PNJ/Vivant/Liam Wyatt McCoy.md",
+    "Lieux/Seattle.md",
+    "Lieux/La maison des portes.md",
     "Lieux/Lieux de Las Vegas/Appartement Wild Seven.md",
     "Lieux/Lieux de Las Vegas/Cours royale de l'automne.md",
     "Lieux/Lieux de Las Vegas/Appartement de la vampire.md",
@@ -210,15 +211,6 @@
     "PNJ/Inconnu/Grand Père Tonnerre.md",
     "PNJ/Inconnu",
     "Créatures/Loup-Garou.md",
-    "PNJ/Vivant/Hang.md",
-    "PNJ/Vivant/Rajij.md",
-    "PNJ/Vivant/Yesui.md",
-    "PNJ/Vivant/Satoshi.md",
-    "PNJ/Vivant/Djehouty.md",
-    "Artefactes/Perdu/Bloc de pierre mystérieux.md",
-    "PNJ/Vivant/Mâche en fer.md",
-    "Histoire/Baseball, Israel et Convention.md",
-    "Notes rapide Lukas.md",
     "Lieux/Lieux de Seattle",
     "Lieux/Lieux de Jérusalem",
     "Images/Tremere_Logo.png",

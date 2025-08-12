@@ -1,1 +1,1 @@
-Un [[Basthet]] travaillant à l'[[Arcanum]]
+Un [[Bastet#Ceilican|Bastet]] travaillant à l'[[Arcanum]]
