@@ -1,5 +1,6 @@
 [[Lukas Frazer|Lukas]] commence son travail d'investigation en recherchant des informations sur son patron et sur le pannel d'investisseur qui financent ses recherches.
 [[Markus Mac Kinnon|Markus]] commence ses recherche du côté de son aggresseur il découvre rapidement que ce dernier s'appel [[Liam Miller]]
+# Soirée mondaine
 Au milieu de mes recherches [[Jeremy George|Jeremy]] me demande si je peux le remplacer dans un soirée mondaine pour la [[Laboratoire de recherche Trustex|société]] qui a lieu le vendredi suivant avec les investisseurs de l'entreprise.
 Dans la soirée nous apprenons que [[Jeffrey Cooper|Jeffrey]] a disparu. Mais assez vite nous le retrouvons au [[Bar de Bob]], dans le bar [[Jeffrey Cooper|Jeffrey]] repère, d'une façon qui nous est inconnus, des vampire qui semblerait traîner dans le [[Bar de Bob|bar]], nous les confrontons [[Markus Mac Kinnon|Markus]] manque de perdre la vie mais le feu Grejois de [[Henry Vasquez|Henry]] met rapidement fin à l'affrontement.
 Le lendemain [[Lukas Frazer|Lukas]] rencontre l'[[Arcanum]] qui nous transmet des informations. D'après eux les dernières personnes ayant mis la main sur le livre serait un groupe de fée de la cours de l'hiver de Los Angeles.
@@ -9,7 +10,7 @@ Durant la soirée nous rencontrons [[Edouard Swallow]] le professeur de [[Henry 
 ![[Tremere_Logo.png]]
 [[Occam]] un collègue de [[Henry Vasquez|Henry]] de l'[[Arcanum]] est présent durant la soirée et nous présente un homme de grande taille du nom de [[Remold Blacklow|Remold]], avec qui je discute des fées et de leurs disparition dans ce monde.
 Durant la soirée, [[Henry Billwrite|mon patron]] a approché [[Lukas Frazer|Lukas]] et a essayé de prendre le contrôle de mon esprit afin de me forcer à le suivre pour nous le supposons me transformer en Vampire, mais [[Ariel Irwin (Fée)|Ariel]] a réussi a me tirer de ses griffes.
-
+# Attaque sur l'ambassade
 Après la soirée le [[SAD]] nous contacte et nous demande d'attaquer un nid de [[Vampire]] qui se serait installé dans l'[[Ambassade du Costa Rica]].
 
 [[Lukas Frazer|Lukas]] profite des rencontres effectuée durant la soirée pour se rendre à l'[[Arcanum]], il y rencontre [[Felix]] pour récupérer des informations sur les [[Vampire]] et comment les combattre plus efficacement.

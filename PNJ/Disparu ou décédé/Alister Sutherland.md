@@ -1,0 +1,1 @@
+Un [[Vampire]] ou une [[Goule]] qui possédait la [[villa Vampire]] de [[Los Angeles]], il est mort lors de [[Disparition, Loup Garou et Assaut#L'attaque de la Villa Vampire villa|l'attaque de la villa]].

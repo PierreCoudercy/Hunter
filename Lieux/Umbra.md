@@ -1,0 +1,1 @@
+Un espace adjacent à notre dimension auquel les [[Loup-Garou]] accède par les miroir et certain [[Mage]] par des portail dans le tissus de la réalité.

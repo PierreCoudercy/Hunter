@@ -1,0 +1,1 @@
+Un groupe de [[Mage]] qui vit notamment dans la forêt derrière chez [[Jeffrey Cooper|Jeffrey]], ils ont contacté [[Lukas Frazer|Lukas]] pour qu'il les rejoignent mais celui-ci a rejeté leur offre.

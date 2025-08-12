@@ -1,0 +1,1 @@
+Un livre très puissant et indestructible que [[Adam Grimes (Azraël)|Grimes]] nous a demandé de retrouvé avant qu'il ne soit utilisé pour causer une catastrophe, nous l'avons récupéré et lui avons remis.

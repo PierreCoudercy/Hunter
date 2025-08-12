@@ -1,0 +1,1 @@
+Un lieu particulier dont [[Adam Grimes (Azraël)|Grimes]] nous a permis l'accès qui se trouve dans l'[[Umbra]] ou du moins un espace adjacent, le lieu ressemble à une grande maison remplis de porte qui permettent d'accéder à n'importe quel endroit sur Terre ou ailleurs. Un symbole produit sur une porte permet d'y accéder.

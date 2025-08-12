@@ -2,3 +2,11 @@
 
 * [[Felix]]
 * [[Gwen (Aruru)]]
+* [[Docteur Vogorid]]
+* [[Edouard Swallow]]
+* [[Lazarus]]
+* [[Mâche en fer]]
+* [[Occam]]
+* [[Remold Blacklow]]
+* [[Wild Seven]]
+* [[Zakariel]]

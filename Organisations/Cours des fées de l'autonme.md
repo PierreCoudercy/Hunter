@@ -1,0 +1,1 @@
+Un groupe de [[fées]] vivant à [[Las Vegas]]. [[Lukas Frazer|Lukas]], [[Jeffrey Cooper|Jeffrey]] et [[Markus Mac Kinnon|Markus]] ont rencontré leurs reine afin de récupérer des informations sur le [[Compendium Aeternum]].

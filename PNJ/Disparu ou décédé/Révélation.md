@@ -1,0 +1,1 @@
+Un [[Mage]] ou un [[Vampire]] connaissance de [[Henry Billwrite|Billwrite]] qui a permis à [[Lukas Frazer|Lukas]] d'effectuer son éveille.
