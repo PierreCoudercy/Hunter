@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Histoire",
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.5,
   "linkDistance": 500,
-  "scale": 0.059326171875,
+  "scale": 0.0889892578125,
   "close": true
 }

@@ -7,4 +7,4 @@ Après cette soirée mouvementée nous nous retournons voir [[Wild Seven]] et au
 [[Markus Mac Kinnon|Markus]] et [[Jeffrey Cooper|Jeffrey]] ne se sentant pas capable ou n'ayant pas envie de garder le secret du [[Mage]] voient leurs souvenirs de la [[Vampire]] effacé.
 Après un mariage rapide avec [[Ariel Irwin (Fée)|Ariel]] nous reprenons la route vers [[San Francisco|Frisco]] ou de mauvaise nouvelles nous attendent.
 
-Suite dans [[Goule, trahison et promotion]]
+Suite dans [[Promotion, Trahison et Road Trip]]

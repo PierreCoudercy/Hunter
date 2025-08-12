@@ -1,4 +1,4 @@
-# La rencontre avec les monde surnaturel
+# La rencontre avec le monde surnaturel
 
 Alors que [[Lukas Frazer|Lukas]] était resté dans son [[Laboratoire de recherche Trustex|laboratoire]] tard afin de travailler sur de nouveaux échantillons de sang atteint par la dégénéréscence rare sur laquelle il travaille depuis qu'il a commencé dans ce [[Laboratoire de recherche Trustex|laboratoire]], il entend des bruits étrange provenant d'un laboratoire avoisinant.
 
