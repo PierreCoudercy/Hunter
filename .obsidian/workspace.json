@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -185,18 +185,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "d3de9a96ae1d527d",
   "lastOpenFiles": [
+    "Lieux/Lieux du Nevada/Site de l'explosion Nucleaire.md",
+    "Lieux/Lieux du Nevada",
     "Lieux/La maison des portes.md",
     "Lieux/Jérusalem.md",
     "Images/Jerusalem.png",
@@ -206,7 +208,6 @@
     "Histoire/Promotion, Trahison et Road Trip.md",
     "Lieux/Nevada.md",
     "Lieux/Lieux du Nevada/Site de l'explosion \"Nucléaire\".md",
-    "Lieux/Lieux du Nevada",
     "Lieux/Los Angeles.md",
     "Histoire/Baseball, Israel et Convention.md",
     "Images/LogoHouseDevil.jpg",
