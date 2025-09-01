@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Jérusalem.md",
+                "file": "Lieux/Las Vegas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jérusalem"
+              "title": "Las Vegas"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -197,10 +198,10 @@
   },
   "active": "d3de9a96ae1d527d",
   "lastOpenFiles": [
+    "Lieux/Jérusalem.md",
     "Lieux/Lieux du Nevada/Site de l'explosion Nucleaire.md",
     "Lieux/Lieux du Nevada",
     "Lieux/La maison des portes.md",
-    "Lieux/Jérusalem.md",
     "Images/Jerusalem.png",
     "Images/Screenshot 2025-08-13 at 00-27-03 Jerusalem - OpenStreetMap Wiki.png",
     "Lieux/Californie.md",

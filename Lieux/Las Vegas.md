@@ -25,8 +25,9 @@ unit: km ### The value displayed when measuring so you know what type of unit is
 scale: 0.011428571428571429 ### Real units/px (resolution) of your map  
 recenter: false  
 darkmode: false ### marker
-marker: Appartement,290,745.5,Appartement de la vampire,,,
-marker: fealand,416.34375,309.25,Cours royale de l'automne,,,
-marker: Appartement,512.5,749,Appartement Wild Seven,,,
+markers: 
+  - [Appartement,290,745.5,Appartement de la vampire]
+  - [fealand,416.34375,309.25,Cours royale de l'automne]
+  - [Appartement,512.5,749,Appartement Wild Seven]
 
 ```
