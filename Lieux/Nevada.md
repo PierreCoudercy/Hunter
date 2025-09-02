@@ -10,7 +10,7 @@ scale_pixels_range: 167
 # Carte du Nevada
 
 ```leaflet  
-id: MapCalcExample ### Must be unique with no spaces  
+id: Nevada ### Must be unique with no spaces  
 image: [[Nevada-Map.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [2000, 1430]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
