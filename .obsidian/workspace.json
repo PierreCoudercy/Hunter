@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Jérusalem.md",
+                "file": "Chronologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jérusalem"
+              "title": "Chronologie"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,8 +198,14 @@
   },
   "active": "d3de9a96ae1d527d",
   "lastOpenFiles": [
-    "Lieux/La maison des portes.md",
+    "PNJ/Vivant/Lazarus.md",
     "Lieux/Jérusalem.md",
+    "Lieux/La maison des portes.md",
+    "Lieux/Las Vegas.md",
+    "Lieux/Los Angeles.md",
+    "Lieux/San Francisco.md",
+    "PNJ/Vivant/Adam Grimes (Azraël).md",
+    "Créatures/Démon.md",
     "Images/Jerusalem.png",
     "Images/Screenshot 2025-08-13 at 00-27-03 Jerusalem - OpenStreetMap Wiki.png",
     "Lieux/Californie.md",
@@ -207,18 +214,15 @@
     "Lieux/Nevada.md",
     "Lieux/Lieux du Nevada/Site de l'explosion \"Nucléaire\".md",
     "Lieux/Lieux du Nevada",
-    "Lieux/Los Angeles.md",
     "Histoire/Baseball, Israel et Convention.md",
     "Images/LogoHouseDevil.jpg",
     "Images/LogoHouseDevil.webp",
     "Images/Nevada-Map.jpg",
-    "Lieux/Las Vegas.md",
     "Créatures/Ratkin.md",
     "Créatures/Bastet.md",
     "PNJ/Vivant/Felix.md",
     "PNJ/Vivant/Rajij.md",
     "Chronologie.md",
-    "Lieux/San Francisco.md",
     "Histoire/La recherche du livre.md",
     "Histoire/Les débuts.md",
     "PNJ/Vivant/Liam Wyatt McCoy.md",
@@ -226,8 +230,6 @@
     "Lieux/Lieux de Las Vegas/Appartement Wild Seven.md",
     "Lieux/Lieux de Las Vegas/Cours royale de l'automne.md",
     "Lieux/Lieux de Las Vegas/Appartement de la vampire.md",
-    "Lieux/Lieux de Seattle/Maison de la mère de Lukas.md",
-    "Histoire/Loucifer.md",
     "PNJ/Inconnu",
     "Lieux/Lieux de Seattle",
     "Lieux/Lieux de Jérusalem",
