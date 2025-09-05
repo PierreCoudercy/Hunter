@@ -27,12 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Chronologie.md",
+=======
+                "file": "Lieux/Las Vegas.md",
+>>>>>>> e062ee5221f55bacc9b9f914fe67e2d547931b08
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Chronologie"
+=======
+              "title": "Las Vegas"
+>>>>>>> e062ee5221f55bacc9b9f914fe67e2d547931b08
             }
           }
         ],
@@ -59,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -186,18 +194,28 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+<<<<<<< HEAD
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+=======
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+>>>>>>> e062ee5221f55bacc9b9f914fe67e2d547931b08
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "d3de9a96ae1d527d",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "PNJ/Vivant/Lazarus.md",
     "Lieux/Jérusalem.md",
     "Lieux/La maison des portes.md",
@@ -206,14 +224,25 @@
     "Lieux/San Francisco.md",
     "PNJ/Vivant/Adam Grimes (Azraël).md",
     "Créatures/Démon.md",
+=======
+    "Lieux/Nevada.md",
+    "Lieux/Los Angeles.md",
+    "Lieux/Las Vegas.md",
+    "Lieux/Jérusalem.md",
+    "Lieux/Lieux du Nevada/Site de l'explosion Nucleaire.md",
+    "Lieux/Lieux du Nevada",
+    "Lieux/La maison des portes.md",
+>>>>>>> e062ee5221f55bacc9b9f914fe67e2d547931b08
     "Images/Jerusalem.png",
     "Images/Screenshot 2025-08-13 at 00-27-03 Jerusalem - OpenStreetMap Wiki.png",
     "Lieux/Californie.md",
     "Lieux/Lieux de Californie/Maison de vacance de Markus.md",
     "Histoire/Promotion, Trahison et Road Trip.md",
-    "Lieux/Nevada.md",
     "Lieux/Lieux du Nevada/Site de l'explosion \"Nucléaire\".md",
+<<<<<<< HEAD
     "Lieux/Lieux du Nevada",
+=======
+>>>>>>> e062ee5221f55bacc9b9f914fe67e2d547931b08
     "Histoire/Baseball, Israel et Convention.md",
     "Images/LogoHouseDevil.jpg",
     "Images/LogoHouseDevil.webp",

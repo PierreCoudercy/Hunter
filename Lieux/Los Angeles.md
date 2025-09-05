@@ -9,7 +9,7 @@ map_width_x: 1700
 # Carte Los Angeles
 
 ```leaflet  
-id: MapCalcExample ### Must be unique with no spaces  
+id: LosAngeles ### Must be unique with no spaces  
 image: [[Los-Angeles-Neighborhood-Map.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [2200, 1700]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  

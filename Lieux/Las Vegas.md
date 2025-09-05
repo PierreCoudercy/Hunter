@@ -10,7 +10,7 @@ scale_pixels_range: 0.8
 # Carte Las Vegas
 
 ```leaflet  
-id: MapCalcExample ### Must be unique with no spaces  
+id: LasVegas ### Must be unique with no spaces  
 image: [[Las-Vegas-Road-Map.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [1500, 1500]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
@@ -24,9 +24,10 @@ zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.
 unit: km ### The value displayed when measuring so you know what type of unit is being measure.  
 scale: 0.011428571428571429 ### Real units/px (resolution) of your map  
 recenter: false  
-darkmode: false ### marker
-marker: Appartement,290,745.5,Appartement de la vampire,,,
-marker: fealand,416.34375,309.25,Cours royale de l'automne,,,
-marker: Appartement,512.5,749,Appartement Wild Seven,,,
+darkmode: false
+marker: 
+    - Appartement,290,745.5,Appartement de la vampire,,,
+    - fealand,416.34375,309.25,Cours royale de l'automne,,,
+    - Appartement,512.5,749,Appartement Wild Seven,,,
 
 ```
