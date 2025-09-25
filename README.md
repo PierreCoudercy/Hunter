@@ -1,4 +1,4 @@
-# How to Use
+# Installation
 ## Windows
 
 Afin de récuperer les données et de pouvoir les éditers de façon sur sans écraser et détruire les travailles de autres personnes exploitant les notes présente ici, il faut utiliser un minimum le système GIT.
@@ -21,7 +21,7 @@ git push
 git config set credential.helper manager
 ```
 Dans le terminal au bout de la ligne vide il devrait y avoir <votre_nom> entre parenthèses.
-Dans Obsidian vérifier que
+Dans Obsidian ouvrez le dossier comme vos autres dossiers et vérifier que la valeur <votre_nom> apparaît bien en bas à droite de l'interface sinon cliquez sur cette dernière et sélectionnez la branch avec <votre_nom>.
 
 ## Linux
 
@@ -33,3 +33,15 @@ git checkout -b <votre_nom>
 git push
 
 ```
+# How to use
+Une fois que vous avez pris des notes vous allez vouloir les pousser sur le repôt distant. Pour ce faire pas besoin de passer par une autre interface tous se passe dans Obsidian.
+Il faut ouvrir le panneau Git d'obsidian afin de dévoiler la liste des fichiers qui ont été modifié lors de votre édition :
+![Interface Git d'Obsidian](https://raw.githubusercontent.com/Vinzent03/obsidian-git/master/images/source-view.png)
+Au niveau du menu "Changed" cliquez sur le "+" la liste des fichiers en dessous de ce menu doit disparaître et passer dans le menu du dessus
+Dans le champ texte qui contient par défaut "vault backup: {{date}}" vous pouvez indiquer le message avec lequel vous souhaitez enregistrer vos fichier
+Vous pouvez cliquer ensuite sur l'icône validation tous en haut la seconde icône en partant de la gauche puis sur l'icône courrier sortant la cinquième en partant de la gauche.
+Un mot de passe vous sera peut-être demandé.
+
+
+
+Pour toute question n'hésitez pas à contacter votre administrateur.
