@@ -36,6 +36,7 @@ git push
 # How to use
 Une fois que vous avez pris des notes vous allez vouloir les pousser sur le repôt distant. Pour ce faire pas besoin de passer par une autre interface tous se passe dans Obsidian.
 Il faut ouvrir le panneau Git d'obsidian afin de dévoiler la liste des fichiers qui ont été modifié lors de votre édition :
+
 ![Interface Git d'Obsidian](https://raw.githubusercontent.com/Vinzent03/obsidian-git/master/images/source-view.png)
 
 Au niveau du menu "Changed" cliquez sur le "+" la liste des fichiers en dessous de ce menu doit disparaître et passer dans le menu du dessus
