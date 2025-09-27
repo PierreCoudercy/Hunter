@@ -10,7 +10,7 @@ aliases:
 * [[Stan]]
 * [[Bob]]
 * [[Lukas Frazer]]
-* [[Amozé]]
+* [[Ahmozé]]
 * [[Markus Mac Kinnon]]
 # Possession
 * [[Morning Star]]

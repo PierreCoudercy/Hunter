@@ -11,3 +11,4 @@ D'après Amozé le Loup Garou a été possédé par un Fomori et non pas un dém
 Avant que nous quittions le lieux du Cairn, Jeffrey a vu des fissures avec une lumière zébrer le sol du lieux avec un pilonne rouge vers la direction du Cairn qui a été déplacé.
 Fellix trouve un nom dans le texte de la Tablette : Phenex.
 Le mentor d'Amozé s'appel Djehouty, et il est accompagné de sa meute, un japonais Satoshi (Aken), une mongole Yesui (Astrolatre), un indien Rajij (Basthet), un singapourien Hang (Marcheur sur verre).
+# Séance 27/09/2025

@@ -13,6 +13,6 @@ Il a également passé un contrat avec l'[[Démon|Ange déchu]] [[Adam Grimes (A
 * [[Tessa Frazer]]
 # Amis
 * [[Jeremy George]]
-* [[Amozé]]
+* [[Ahmozé]]
 * [[Jeffrey Cooper]]
 * [[Markus Mac Kinnon]]

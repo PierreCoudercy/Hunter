@@ -1,1 +1,1 @@
-Maître d'[[Amozé]] un [[Loup-Garou]] comme lui.
+Maître d'[[Ahmozé]] un [[Loup-Garou]] comme lui.

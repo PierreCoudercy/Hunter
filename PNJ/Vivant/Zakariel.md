@@ -1,2 +1,2 @@
-Un [[Démon]] qui occupe actuellement le corps de [[Markus Mac Kinnon|Markus]], ce dernier semble être très différent de [[Adam Grimes (Azraël)|Grimes]], il n'aime pas qu'on lui dise non et a essayé de contraindre [[Amozé]].
+Un [[Démon]] qui occupe actuellement le corps de [[Markus Mac Kinnon|Markus]], ce dernier semble être très différent de [[Adam Grimes (Azraël)|Grimes]], il n'aime pas qu'on lui dise non et a essayé de contraindre [[Ahmozé]].
 [[Adam Grimes (Azraël)|Grimes]] nous a appris, qu'il est un [[Démon]] qu'il essaye de remettre sur le droit chemin.
