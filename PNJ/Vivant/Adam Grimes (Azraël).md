@@ -2,6 +2,9 @@
 aliases:
   - Grimes
   - Azraël
+tags:
+  - démon
+  - neutre
 ---
 [[Démon|Ange déchu]] qui a permis de réunir, [[Lukas Frazer|Lukas]], [[Jeffrey Cooper|Jeffrey]] et [[Markus Mac Kinnon|Markus]] autour de la quête du [[Compendium Aeternum]], de son vrai nom Azraël, il était l'ange de la mort et semble avoir un certain contrôle sur ce domaine.
 Il a passé de nombreux contrat avec différentes personnes.

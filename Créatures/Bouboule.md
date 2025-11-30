@@ -1,0 +1,5 @@
+---
+aliases:
+  - poubelle
+  - mange-tout
+---

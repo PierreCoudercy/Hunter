@@ -1,3 +1,8 @@
+---
+tags:
+  - humain
+  - allié
+---
 Amis de [[Jeffrey Cooper|Jeffrey]], ancien militaire il a servi un peu trop longtemps et subit d'assez sévère syndrome post-traumatique, lui et [[Jeffrey Cooper|Jeffrey]] ne s'entendent pas sur tous les sujets.
 [[Lukas Frazer|Lukas]] ne lui fait pas confiance depuis les événements de la [[Un week end de chasse|partie de chasse]] il le trouve trop instable.
 [[Ahmozé]] ne lui fait pas confiance car il a l'air d'avoir une dent contre les [[Loup-Garou]] depuis qu'il en aurait combattu en Irak

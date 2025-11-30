@@ -1,1 +1,6 @@
+---
+tags:
+  - démon
+  - neutre
+---
 Un [[Démon|Ange déchu]] vivant à Jérusalem, il est l'antithèse de [[Adam Grimes (Azraël)|Grimes]] puisqu'il est lié à l'énergie de la vie. Il soigne les gens et récolte la foi omniprésente dans cette ville sainte.

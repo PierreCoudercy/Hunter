@@ -1,1 +1,6 @@
+---
+tags:
+  - vampire
+  - neutre
+---
 Un [[Vampire]] qui travaille au [[Laboratoire de recherche Trustex]] de nuit dans une partie du laboratoire inaccessible au plus grand nombre. [[Lukas Frazer|Lukas]] a eu l'occasion de travailler avec lui ou plutôt à côté de lui pendant quelques nuit, lorsqu'il travaillait directement sous les ordre de [[Henry Billwrite]].
