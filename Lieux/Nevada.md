@@ -4,6 +4,8 @@ map_height_y: 2000
 map_width_x: 1430
 scale_pixels: 408
 scale_pixels_range: 167
+tags:
+  - carte
 ---
 # Liste des lieux
 * [[Site de l'explosion "Nucléaire"]]

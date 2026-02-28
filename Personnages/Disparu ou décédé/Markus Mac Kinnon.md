@@ -2,6 +2,9 @@
 aliases:
   - Markus
   - William
+tags:
+  - allié
+  - humain
 ---
 Pseudo après la perte de Pepper William Wallas
 

@@ -4,6 +4,8 @@ map_height_y: 1200
 map_width_x: 1060
 scale_pixels: 183
 scale_pixels_range: 3
+tags:
+  - carte
 ---
 # Carte de Jérusalem
 

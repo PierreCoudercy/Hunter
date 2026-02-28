@@ -4,6 +4,8 @@ map_height_y: 1500
 map_width_x: 1500
 scale_pixels: 70
 scale_pixels_range: 0.8
+tags:
+  - carte
 ---
 # Lieux de Las Vegas
 * 

@@ -1,1 +1,6 @@
+---
+tags:
+  - vampire
+  - ennemi
+---
 Un [[Vampire]] qui a attaqué [[Markus Mac Kinnon|Markus]] nous ne savons ce qu'il est devenus.

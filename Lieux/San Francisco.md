@@ -4,6 +4,8 @@ map_height_y: 1968
 map_width_x: 1968
 scale_pixels: 380
 scale_pixels_range: 1
+tags:
+  - carte
 ---
 # Lieux de San Francisco
 * [[Laboratoire de recherche Trustex]]

@@ -1,6 +1,9 @@
 ---
 aliases:
   - Jeffrey
+tags:
+  - allié
+  - hunter
 ---
 # Description
 

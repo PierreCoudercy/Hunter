@@ -1,3 +1,7 @@
+---
+tags:
+  - créatures
+---
 # Métisse
 # Aken
 # Astrolatre

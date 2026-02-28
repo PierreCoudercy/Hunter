@@ -1,1 +1,7 @@
+---
+tags:
+  - loup-garou
+  - décédé
+  - allié
+---
 Un [[Loup-Garou]] rencontré lors de la [[Un week end de chasse|partie de chasse]] celui-ci est mort par la faute d'[[Henry Vasquez|Henry]] et de [[Stan]], qui ont été trompé par [[la terreur Liminal]].

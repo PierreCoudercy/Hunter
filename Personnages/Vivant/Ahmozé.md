@@ -1,3 +1,8 @@
+---
+tags:
+  - loup-garou
+  - allié
+---
 [[Loup-Garou]]
 # Description
 

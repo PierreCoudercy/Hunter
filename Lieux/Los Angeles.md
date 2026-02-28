@@ -2,6 +2,8 @@
 mapCalc1: NaN
 map_height_y: 2200
 map_width_x: 1700
+tags:
+  - carte
 ---
 # Lieux de Los Angeles
 * [[Centre de congrès]]

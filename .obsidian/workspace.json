@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5308bbb0c1e15399",
+        "id": "93da1d6b8b52411d",
         "type": "tabs",
         "children": [
           {
-            "id": "ff63b413898cd82e",
+            "id": "1dcc95bb722f5a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -179,11 +179,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ff63b413898cd82e",
+  "active": "244896d9b0dcb388",
   "lastOpenFiles": [
+    "Artefactes/Possédé/Morning Star.md",
+    "Notes rapide Lukas.md",
+    "Sans titre.base",
+    "PNJ/Inconnu/Phenex.md",
+    "Lieux/Californie.md",
+    "Lieux/Nightmare Network.md",
+    "Listing.base",
+    "PNJ/Disparu ou décédé/Ocan.md",
+    "PNJ/Disparu ou décédé/Liam Miller.md",
+    "30-11-2025.md",
+    "Personnages/Vivant/Jeffrey Cooper.md",
     "PNJ/Disparu ou décédé/Alister Sutherland.md",
     "PNJ/Inconnu/Seigneur des profondeur.md",
-    "PNJ/Inconnu/Phenex.md",
     "PNJ/Inconnu/Grand Père Tonnerre.md",
     "PNJ/Vivant/Zakariel.md",
     "PNJ/Vivant/Yesui.md",
@@ -198,15 +208,6 @@
     "PNJ/Vivant/Mâche en fer.md",
     "PNJ/Vivant/Liam Wyatt McCoy.md",
     "PNJ/Vivant/Ariel Irwin (Fée).md",
-    "PNJ/Vivant/Ariel Irwin (Simulacre).md",
-    "PNJ/Vivant/Aria McCoy Frazer.md",
-    "PNJ/Vivant/Le maître des clés.md",
-    "PNJ/Vivant/Lazarus.md",
-    "PNJ/Vivant/La terreur Liminal.md",
-    "PNJ/Vivant/Jeremy George.md",
-    "PNJ/Vivant/Henry Vasquez.md",
-    "PNJ/Vivant/Hang.md",
-    "PNJ/Vivant/Gwen (Aruru).md",
     "Untitled.base"
   ]
 }

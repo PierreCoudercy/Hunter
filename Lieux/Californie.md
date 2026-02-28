@@ -2,6 +2,8 @@
 mapCalc1: NaN
 map_height_y: 2030
 map_width_x: 2114
+tags:
+  - carte
 ---
 # Liste des lieux de Californie
 * [[Maison de vacance de Markus]]

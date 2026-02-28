@@ -1,3 +1,7 @@
+---
+tags:
+  - carte
+---
 # Carte de la ville
 # Manoir hanté
 ## Cabane de stockage

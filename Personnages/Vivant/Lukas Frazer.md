@@ -1,6 +1,8 @@
 ---
 aliases:
   - Lukas
+tags:
+  - mage
 ---
 # Description
 Lukas était un docteur en pharmacologie travaillant pour le [[Laboratoire de recherche Trustex]] situé à [[San Francisco]], jusqu'à ce qu'il fasse la rencontre du surnaturel au sein même de son lieux de travail. Ses aventures l'ont amené à changer encore plus qu'on puisse le penser puisqu'il a subit l'ascension et est devenus depuis un [[Mage]], même si cela n'est pas encore quelque chose qu'il comprend complètement.
